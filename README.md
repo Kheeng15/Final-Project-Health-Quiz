@@ -2,10 +2,6 @@
 
 Final Project for Kibo's Future Perfect with Python program.
 
-[Click the "Instructions" tab for instructions.]
-
-[Update this file to describe your project! You can remove the instructions in brackets]
-
 ## Project Authors
 
 - [Joshua Badejo]
